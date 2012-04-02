@@ -1,0 +1,2 @@
+class RightBanner < Banner
+end
